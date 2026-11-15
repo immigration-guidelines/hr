@@ -1,0 +1,109 @@
+Croatia - published administrative guidance on immigration case handling
+Checked 2026-11-15.
+
+Result: Croatia publishes almost no guidance for decision-makers. One real guidance
+document was found (the Government's inter-agency Protocol on unaccompanied children,
+2018). The other 14 files are the minister's rulebooks (pravilnici) from the official
+gazette, i.e. legal acts, kept only because they are the working manual in practice.
+  guidance        1 file  (2018)
+  procedural act 14 files (2020-2026: 5 base rulebooks and their 9 amending rulebooks)
+  Total 15 files, 2.6 MB, dated 2018-2026.
+
+Who decides
+- Ministry of the Interior (Ministarstvo unutarnjih poslova, MUP): police administrations
+  and police stations decide temporary residence, stay-and-work permits, EU Blue Cards,
+  long-term residence and return; the Directorate for Immigration, Citizenship and
+  Administrative Affairs decides international protection (first instance), Dublin and
+  second-level residence matters.
+- Croatian Employment Service (Hrvatski zavod za zapošljavanje, HZZ): labour-market test
+  and the opinion on which most stay-and-work permits depend.
+- Ministry of Foreign and European Affairs / consulates: visas.
+
+Sources checked
+- mup.gov.hr (no robots.txt: 404). Read: home page; Pristup informacijama; Zakoni i ostali
+  propisi; Kretanje i boravak stranaca
+  (https://mup.gov.hr/pristup-informacijama-16/zakoni-i-ostali-propisi/kretanje-i-boravak-stranaca/175297);
+  Strategije, smjernice i izvješća; Strategije i smjernice; Migracijska politika; Ljudska
+  prava (two pages); E-knjižnica (empty); Radne dozvole (https://mup.gov.hr/radne-dozvole/286764).
+  Found: only links to the statutes and rulebooks in Narodne novine, the 2013-2015
+  migration policy, and applicant/employer information ("Uputa za poslodavce" on
+  electronic filing, forms, legalisation table, seasonal-work information). No naputak,
+  uputa, smjernice or standard operating procedure addressed to police administrations
+  or to asylum caseworkers.
+- policija.gov.hr (no robots.txt: 404), Policijski propisi
+  (https://policija.gov.hr/policijski-propisi/92): police statutes and rulebooks only; the
+  only border item is the State Border Surveillance heading. Nothing on foreigners.
+- hzz.hr (robots.txt: only wp-admin disallowed), work-permit section
+  (https://www.hzz.hr/usluge/radne-dozvole-za-zaposljavanje-stranaca-i-test-trzista-rada/novi-sustav-zaposljavanja-stranaca/):
+  employer information, "tips for filing", FAQ and the Governing Council's list of
+  occupations exempt from the labour-market test. Applicant information; not collected.
+  No internal rules on how HZZ officers give the opinion.
+- Narodne novine (https://narodne-novine.nn.hr, robots.txt read: a list of individual
+  articles and the notices section are disallowed, none of them needed). Title searches
+  of the official part for "naputak" (383 hits, all read), "uputa" (1,034 hits, the 200
+  most recent read), "protokol" (79) and "stranaca" (165): no naputak or uputa on
+  foreigners, residence, visas, asylum or return has been published in the gazette. The
+  only police naputak there concerns bringing persons with mental disorders to hospital.
+- mrosp.gov.hr (ministry for social policy; no robots.txt: 404): the unaccompanied-children
+  protocol.
+- Web searches (Croatian and English) for naputak / uputa / standardni operativni postupak
+  of MUP on the Aliens Act, international protection and irregular migrants; AIDA Croatia
+  report pages; Ombudsman and Independent Monitoring Mechanism reports. They confirm that
+  the Police Directorate does send written instructions to police administrations
+  (the Director General of Police told Parliament in 2018 that such instructions go out
+  "several times a month"; a 2019 station-level "smjernice" leaked to the press), and that
+  none of them is published.
+
+What is in this folder
+- guidance: Protokol o postupanju prema djeci bez pratnje (Government, 30 Aug 2018,
+  48 pages): step-by-step duties of police, doctors, social welfare and MUP for
+  unaccompanied children, including age assessment, the international protection
+  procedure, Dublin and return.
+- procedural acts (HTML pages of Narodne novine, unmodified, one file per gazette item;
+  the gazette has no consolidated texts, so amendments are separate files):
+    Pravilnik o boravku državljana trećih zemalja (NN 20/2022, amended 155/2022, 43/2026)
+    Pravilnik o postupanju prema državljanima trećih zemalja (NN 136/2021, 145/2023, 102/2025)
+    Pravilnik o ulasku i boravku ... državljana EGP (NN 107/2020, 148/2020, 86/2021, 155/2022)
+    Pravilnik o boravku u prihvatnom centru za strance (NN 145/2021, 155/2022, 137/2023)
+    Pravilnik o vizama (NN 109/2021; Ministry of Foreign and European Affairs)
+  Left out on purpose: the statutes; rulebooks on forms and data collections, fees, legal
+  aid, means of subsistence, language test, reception conditions and health care; quota
+  decisions; the national anti-trafficking protocols (victim identification, not
+  immigration decisions).
+
+EU Blue Card / temporary work agencies
+- EU Blue Card: only in the residence rulebook (NN 20/2022: 13 mentions; NN 43/2026
+  amendment: 26 mentions) - documents to file, proof of higher professional skills through
+  the opinion of the commission that assesses experience-based skills, the certificate
+  printed on approval, change of employer. No guidance document addresses it.
+- Temporary work agencies: two provisions in the NN 43/2026 amendment (the certificate
+  issued where the employer is an agency; a seasonal worker may work for the agency and
+  the user undertakings named in the certificate, change of user on a positive HZZ
+  opinion). Nothing on employers of record. No guidance document addresses either.
+
+How much real guidance: very little. The internal instructions of MUP exist but are not
+published anywhere; what an official can be seen to work from is the Aliens Act, the
+International and Temporary Protection Act and the rulebooks above, plus EUAA practical
+guides in Croatian. The single published guidance document is the 2018 protocol on
+unaccompanied children.
+
+Completeness doubts
+- mup.gov.hr has no sitemap and no working site search for documents; the check was by
+  menu pages and by web search, so a stray PDF under /UserDocsImages/ could have been
+  missed.
+- The "uputa" gazette search was read only for the 200 most recent of 1,034 titles.
+- Amendments to the rulebooks after April 2026 would not be in the script's list.
+
+Copyright / confidentiality notices: none on the saved documents.
+
+Not obtained: see not-obtained.tsv (the unpublished internal instructions).
+
+Work history: all source checks and downloads were done by a first agent on 2026-11-15.
+A second agent verified the files (PDF with pdfinfo, HTML with file; no error or bot-check
+pages), re-ran the script offline to confirm index.tsv is regenerated identically, made a
+further web search on HZZ labour-market-test rules (nothing new: only employer
+information and press), finished these notes and changed the script's User-Agent to the
+collection's common one (no host was re-contacted).
+
+Re-run: python3 download_hr.py   (skips files already present; 15 requests plus 2 for
+robots.txt, 2 s apart; rewrites index.tsv and not-obtained.tsv)
